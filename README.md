@@ -15,7 +15,7 @@ The purpose of this project is to build a tidy data set from files listed in the
 
 ##The following files are included
 ###Note: Due to technical difficulties the files 'GCD script.R', 'Duplicated Column Names.txt', 
-and 'Dataframe_str.txt' were combined into 'codebook.txt'.  Both R scripts are available
+###and 'Dataframe_str.txt' were combined into 'codebook.txt'.  Both R scripts are available
 * `GCD script.R` -- this file is a detailed explanation of the code used to tidy data
 * `run_analysis.R` -- this file is the actual code to tidy data  
 * `Duplicated Column Names.txt` -- this is an illustration and resolution of duplicates
