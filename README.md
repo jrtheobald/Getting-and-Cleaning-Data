@@ -5,20 +5,19 @@ date: "July 25, 2015"
 output: html_document
 ---
 
-README and Codebook
-===================
+README
+======
 
 Getting and Cleaning Data Course Project
 ----------------------------------------
 
 The purpose of this project is to build a tidy data set from files listed in the UCI HAR Dataset folder provided by the course instructors.  Descriptions of variables and experimental procedure can be found in `features_info.txt` and `README.txt` in the UCI HAR Dataset folder.  This information will not be described in the project work.
 
-##The following files are included
-###Note: Due to technical difficulties the files 'GCD script.R', 'Duplicated Column Names.txt',   and 'Dataframe_str.txt' were combined into 'codebook.txt'.  Both R scripts are available
-* `GCD script.R` -- this file is a detailed explanation of the code used to tidy data
-* `run_analysis.R` -- this file is the actual code to tidy data  
-* `Duplicated Column Names.txt` -- this is an illustration and resolution of duplicates
-* `Dataframe_str.txt` -- this is the structure of the data frames output by `run_analysis.R`
+##The following sections are included in the codebook
+* `GCD script` -- this file is a detailed explanation of the code used to tidy data
+* `Duplicated Column Names` -- this is an illustration and resolution of duplicates
+* `Dataframe structure` -- this is the structure of the data frames output by `run_analysis.R`
+* `Session info` -- resutls of running session information functions
 
 ##The following files are output by `run_analysis.R`
 * `tidy_data_1.txt`
